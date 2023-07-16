@@ -1,4 +1,4 @@
-# HP x IMT
+# HP x IMT 🏆
 Hackathon ocorrido durante a semana Smile do Instituto Mauá de Tecnologia em parceria com a HP Inc
 
 Eu, juntamente ao meu grupo, Felipe, Gustavo e Yasmin, fomos campeões do evento e pudemos apresentar nosso case
